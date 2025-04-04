@@ -1,7 +1,9 @@
-Bioactivity Prediction App (Acetylcholinesterase)
+#Bioactivity Prediction App (Acetylcholinesterase)
+
 This app allows you to predict the bioactivity towards inhibiting the Acetylcholinesterase enzyme. Acetylcholinesterase is a drug target for Alzheimer's disease.
 
-Credits
+#Credits
+
 App built in Python + Streamlit
 Descriptor calculated using PaDEL-Descriptor [Read the Paper].
 Data: ChEMBL database was used for bioactivity data.
